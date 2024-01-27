@@ -1,6 +1,5 @@
-# github_client
-
-A new Flutter project.
+# Github_Client
+Flutter Github_Client windows(desktop) application.
 
 ## Getting Started
 
